@@ -8,6 +8,7 @@ public class a {
 		System.out.println("a.java changed in master branch.");
 		b your = new b();
 		your.sayHello("Everyone");
+		System.out.println("a.java changed in C branch.");
 	}
 
 }
