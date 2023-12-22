@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kimhe
+ *
+ */
+module MyGit {
+}
