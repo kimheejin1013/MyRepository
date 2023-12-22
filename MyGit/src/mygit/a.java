@@ -6,6 +6,8 @@ public class a {
 		System.out.println("Hello Git!");
 		System.out.println("This is the 2nd version.");
 		System.out.println("a.java changed in master branch.");
+		b your = new b();
+		your.sayHello("Everyone");
 	}
 
 }
